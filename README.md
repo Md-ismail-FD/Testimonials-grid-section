@@ -1,6 +1,7 @@
 # Frontend Mentor - Testimonials grid section
+schrenshort
+![grid](https://github.com/user-attachments/assets/d01c9a7a-f7d2-40e7-941f-dce3ca1f3053)
 
-![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
